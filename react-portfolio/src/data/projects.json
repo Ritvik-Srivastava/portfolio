@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Vehicle Store",
+      "imageSrc": "projects/web.jpg",
+      "description": "The primary goal was to build a user-friendly platform where the users can buy vehicles  .",
+      "skills": ["React", "JavaScript", "Node"],
+      "demo": "https://ritvik-srivastava.github.io/Nexus-Vehicle-Store/",
+      "source": "https://github.com/Ritvik-Srivastava/Nexus-Vehicle-Store"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weather.jpg",
+      "description": "The primary goal was to build a platform where the users can see weather data sources to ensure up to date and reliable information for users.",
+      "skills": ["React", "JavaScript", "Node", "Sass"],
+      "demo": "https://ritvik-srivastava.github.io/Weather-App/",
+      "source": "https://github.com/Ritvik-Srivastava/Weather-App"
+    },
+    {
+      "title": "Login Page",
+      "imageSrc": "projects/login.jpg",
+      "description": "This is a project .",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://ritvik-srivastava.github.io/Login-Page/",
+      "source": "https://github.com/Ritvik-Srivastava/Login-Page"
+    },
+    {
+      "title": "School Web Design",
+      "imageSrc": "projects/1-Home.jpg",
+      "description": "This is a School Web Design.",
+      "skills": ["FIGMA","User Interface (UI)","Wireframing"," Prototyping","Interaction Design"," Responsive Design"],
+      "demo": "https://www.figma.com/file/1jta99IwQ60wlUHq08y4Wg/School-Web?type=design&node-id=0%3A1&mode=design&t=qDlwRuEJuRb6FRp9-1",
+      "source": "https://dribbble.com/Ritvik_01"
+    
+    },
+    {
+      "title": "DRM-CRM ",
+      "imageSrc": "projects/dash.jpg",
+      "description": "This is a DMS-CRM Design.",
+      "skills": ["FIGMA"," User Interface (UI)","Interaction Design"," Responsive Design"],
+      "demo": "https://www.figma.com/file/wO31eEFLFHuZmAvKerrVd0/DMS-CRM?type=design&node-id=0%3A1&mode=design&t=AdXyGHjmdjBb8ERm-1",
+      "source": "https://dribbble.com/Ritvik_01"
+    
+    }
+  ]
+ 
